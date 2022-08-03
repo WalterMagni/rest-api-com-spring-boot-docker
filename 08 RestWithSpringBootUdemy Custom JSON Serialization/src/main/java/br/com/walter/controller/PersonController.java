@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import br.com.walter.data.vo.PersonVO;
+import br.com.walter.data.vo.v1.PersonVO;
 import br.com.walter.service.PersonService;
 
 @RestController

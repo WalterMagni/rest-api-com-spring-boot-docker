@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import br.com.walter.converter.mocks.MockPerson;
 import br.com.walter.data.model.Person;
-import br.com.walter.data.vo.PersonVO;
+import br.com.walter.data.vo.v1.PersonVO;
 
 public class DozerConverterTest {
 

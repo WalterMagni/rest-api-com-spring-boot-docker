@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 import br.com.walter.converter.DozerConverter;
 import br.com.walter.data.model.Person;
-import br.com.walter.data.vo.PersonVO;
+import br.com.walter.data.vo.v1.PersonVO;
 import br.com.walter.repository.PersonRepository;
 
 @Service
